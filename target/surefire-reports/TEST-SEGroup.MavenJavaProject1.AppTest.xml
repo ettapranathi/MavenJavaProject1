@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="SEGroup.MavenJavaProject1.AppTest" time="0.019" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="SEGroup.MavenJavaProject1.AppTest" time="0.02" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/Users/srinivasreddyaedula/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.5.v20221102-0933/jre/lib"/>
-    <property name="sun.java.command" value="/Users/srinivasreddyaedula/eclipse-workspace/MavenJavaProject1/target/surefire/surefirebooter6700942225073398542.jar /Users/srinivasreddyaedula/eclipse-workspace/MavenJavaProject1/target/surefire 2022-11-17T04-35-00_644-jvmRun1 surefire13860230037537528646tmp surefire_013979069739508895718tmp"/>
+    <property name="sun.java.command" value="/Users/srinivasreddyaedula/eclipse-workspace/MavenJavaProject1/target/surefire/surefirebooter5953833983615999914.jar /Users/srinivasreddyaedula/eclipse-workspace/MavenJavaProject1/target/surefire 2022-11-27T17-10-27_019-jvmRun1 surefire1714793639271087670tmp surefire_08816339059625152546tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/srinivasreddyaedula/eclipse-workspace/MavenJavaProject1/target/test-classes:/Users/srinivasreddyaedula/eclipse-workspace/MavenJavaProject1/target/classes:/Users/srinivasreddyaedula/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/srinivasreddyaedula/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
@@ -29,7 +29,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/Users/srinivasreddyaedula/eclipse-workspace/MavenJavaProject1/target/surefire/surefirebooter6700942225073398542.jar"/>
+    <property name="surefire.real.class.path" value="/Users/srinivasreddyaedula/eclipse-workspace/MavenJavaProject1/target/surefire/surefirebooter5953833983615999914.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="17.0.5+8"/>
@@ -56,5 +56,5 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="SEGroup.MavenJavaProject1.AppTest" time="0.002"/>
+  <testcase name="shouldAnswerWithTrue" classname="SEGroup.MavenJavaProject1.AppTest" time="0.001"/>
 </testsuite>
